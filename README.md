@@ -4,7 +4,7 @@ This is demo chat screen. You can add message to the sender side by simply press
 
 ✔️ Sound NullSafety
 
-## screenshot
+## Screenshot
 
 <p align="center">
   <img 
